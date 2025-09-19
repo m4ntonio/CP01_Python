@@ -5,7 +5,14 @@
 ![Status](https://img.shields.io/badge/Exerc%C3%ADcios-10-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Este repositório contém uma lista de exercícios de Estruturas Condicionais em Python, com soluções individuais para cada exercício, conforme solicitado.
+## Visão Geral
+
+Este repositório contém uma lista de exercícios de Estruturas Condicionais em Python, com soluções individuais para cada exercício, conforme solicitado. Cada exercício está disponível em um **arquivo Python individual** (`ex01.py` até `ex10.py`), permitindo execução e testes de forma fácil.
+
+## Arquivos
+
+- **`ex01.py` … `ex10.py`**: Scripts Python individuais contendo a solução de cada exercício.  
+- **`README.md`**: Este arquivo, com uma visão geral do repositório, instruções e lista de exercícios.
 
 ## Exercícios
 
