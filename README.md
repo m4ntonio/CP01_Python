@@ -1,6 +1,11 @@
-# CP01 - Python - Lista de Exercícios
+# Checkpoint 01 - Python - Lista de Exercícios
 
-Este repositório contém a lista de exercícios de Python, com soluções individuais para cada exercício, conforme solicitado.
+![Checkpoint](https://img.shields.io/badge/Checkpoint-01-blueviolet)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Status](https://img.shields.io/badge/Exerc%C3%ADcios-10-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+Este repositório contém uma lista de exercícios de Estruturas Condicionais em Python, com soluções individuais para cada exercício, conforme solicitado.
 
 ## Exercícios
 
@@ -48,8 +53,17 @@ Descrição: Recebe uma temperatura em °C e classifica:
 Arquivo: `ex10.py`  
 Descrição: Recebe dois números e uma operação (+, -, *, /) e mostra o resultado correspondente usando if-else.
 
-<br>
+## Como executar
+
+Para rodar qualquer exercício, execute no terminal:
+
+```bash
+python ex01.py
+
+```
+(Substitua `ex01.py` pelo arquivo do exercício desejado.)
+
+<br><br>
 
 
-## 🤓 `Mario Antonio Oliveira RM567713`
-
+**Mario Antonio Oliveira - RM567713**
