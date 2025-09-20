@@ -20,6 +20,8 @@ Este repositório contém uma lista de exercícios de Estruturas Condicionais em
 Arquivo: `ex01.py`  
 Descrição: Verifica se um número inteiro digitado pelo usuário é positivo, negativo ou zero.
 
+Usei a função `input()` para que o usuário informasse um número e converti o valor para `float`, assim aceita números decimais e números inteiros. Em seguida, utilizei a estrutura condicional `if...else`: se o número for maior ou igual a zero, o programa mostra "O número é positivo.", caso contrário, exibe "O número é negativo.".
+
 ### 2. Par ou ímpar
 Arquivo: `ex02.py`  
 Descrição: Recebe um número inteiro e verifica se ele é par ou ímpar.
